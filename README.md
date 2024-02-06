@@ -23,3 +23,9 @@ Encontrar los insights y presentarlos, suponiendo que nuestra audiencia se un gr
 | Console_sales Reporte de ventas anuales de consolas. por marca y modelo. 
 | Juegos en steam. Reporte con estadísticas de uso de juegos en Steam. Incluye recomendaciones  tiempo de uso, etc. 
 | Video Games Sales Reporte de ventas por Video Juego y Plataforma. Incluye ranking y apertura por mercados (NA, EU, Japón y Global). 
+
+------
+INB per cápita, PPA (a $ internacionales actuales):
+
+Divide el INB total de un país por su población y lo expresa en dólares internacionales a precios actuales.
+Esta medida indica el ingreso promedio por persona en un país, ajustado por el costo de vida.
