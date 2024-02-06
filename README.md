@@ -25,6 +25,7 @@ Encontrar los insights y presentarlos, suponiendo que nuestra audiencia se un gr
 | Video Games Sales Reporte de ventas por Video Juego y Plataforma. Incluye ranking y apertura por mercados (NA, EU, Japón y Global). 
 
 ------
+
 ### SOLUCION:
 
 Filtramos y tomamos --> INB per cápita, PPA (a $ internacionales actuales):
