@@ -26,14 +26,18 @@ Encontrar los insights y presentarlos, suponiendo que nuestra audiencia se un gr
 
 ------
 
+------
+
 ### SOLUCION:
 
-Filtramos y tomamos --> INB per cápita, PPA (a $ internacionales actuales):
+1.- Ingreamos los dos Excels y los dos CSV
+
+2.- en la Tabla Data filtramos y tomamos --> INB per cápita, PPA (a $ internacionales actuales):
 
 * Divide el INB total de un país por su población y lo expresa en dólares internacionales a precios actuales.
   Esta medida indica el ingreso promedio por persona en un país, ajustado por el costo de vida.
 
-ETL:
+3.- Inicio del ETL:
 * Identificación de Errores y Problemas: Comenzamos revisando los datos cuidadosamente para identificar cualquier tipo de error o problema potencial. Esto puede incluir:
 
   * Valores Nulos o Faltantes:
@@ -46,3 +50,13 @@ ETL:
      Buscar inconsistencias entre diferentes conjuntos de datos o dentro del mismo conjunto de datos. Esto podría incluir discrepancias en los formatos de datos, valores que contradicen la lógica del negocio o información contradictoria entre diferentes fuentes.
   * Duplicados de Datos:
      Identificar y elimina duplicados de datos que puedan existir en el conjunto de datos. Los datos duplicados pueden afectar la precisión de los análisis y los informes, por lo que es importante deduplicar los datos antes de la transformación.
+
+4.- Ocultamos las columnas "Series Name", "Series Code","Country Code","2019 [YR2019]"
+
+5.- En la pestaña Transformar seleccionamos la funcion Transponer.
+
+6.- En la misma pestaña seleccionamos la funcion Usar la primera fila como encabezado. 
+
+7.- agregamos una nueva columna año desde el 2000 al 2018 y terminamos con esta tabla.
+
+8.- en el mismo procedimiento continua con el ETL.
