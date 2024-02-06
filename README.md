@@ -25,7 +25,9 @@ Encontrar los insights y presentarlos, suponiendo que nuestra audiencia se un gr
 | Video Games Sales Reporte de ventas por Video Juego y Plataforma. Incluye ranking y apertura por mercados (NA, EU, Japón y Global). 
 
 ------
-INB per cápita, PPA (a $ internacionales actuales):
+### SOLUCION:
 
-Divide el INB total de un país por su población y lo expresa en dólares internacionales a precios actuales.
-Esta medida indica el ingreso promedio por persona en un país, ajustado por el costo de vida.
+Filtramos y tomamos --> INB per cápita, PPA (a $ internacionales actuales):
+
+* Divide el INB total de un país por su población y lo expresa en dólares internacionales a precios actuales.
+  Esta medida indica el ingreso promedio por persona en un país, ajustado por el costo de vida.
