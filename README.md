@@ -36,16 +36,15 @@ Filtramos y tomamos --> INB per cápita, PPA (a $ internacionales actuales):
 ETL:
 * Identificación de Errores y Problemas:
   
-  Comienza revisando los datos cuidadosamente para identificar cualquier tipo de error o problema potencial. Esto puede incluir:
+  | Comienza revisando los datos cuidadosamente para identificar cualquier tipo de error o problema potencial. Esto puede incluir:
 
-  Valores Nulos o Faltantes:
-    Busca valores nulos o faltantes en las columnas de los datos. Los valores nulos pueden afectar la integridad de los cálculos y los análisis, por lo que es importante decidir cómo manejarlos.
-  Valores Incorrectos:
-    Examina los datos en busca de valores incorrectos o incoherentes. Esto podría incluir valores que están fuera del rango esperado, valores que no cumplen con el formato adecuado o valores que contradicen las reglas de negocio.
-  Valores Atípicos (Outliers):
-    Identifica valores atípicos o outliers que están significativamente fuera del rango esperado. Los outliers pueden distorsionar el análisis y deben ser examinados cuidadosamente para determinar si son errores de entrada o datos legítimos pero inusuales.
-  Inconsistencias de Datos:
-    Busca inconsistencias entre diferentes conjuntos de datos o dentro del mismo conjunto de datos. Esto podría incluir discrepancias en los formatos de datos, valores que contradicen la lógica del negocio o información contradictoria entre diferentes       
-    fuentes.
-  Duplicados de Datos:
-    Identifica y elimina duplicados de datos que puedan existir en el conjunto de datos. Los datos duplicados pueden afectar la precisión de los análisis y los informes, por lo que es importante deduplicar los datos antes de la transformación.
+  | Valores Nulos o Faltantes:
+    | Busca valores nulos o faltantes en las columnas de los datos. Los valores nulos pueden afectar la integridad de los cálculos y los análisis, por lo que es importante decidir cómo manejarlos.
+  | Valores Incorrectos:
+    | Examina los datos en busca de valores incorrectos o incoherentes. Esto podría incluir valores que están fuera del rango esperado, valores que no cumplen con el formato adecuado o valores que contradicen las reglas de negocio.
+  | Valores Atípicos (Outliers):
+    | Identifica valores atípicos o outliers que están significativamente fuera del rango esperado. Los outliers pueden distorsionar el análisis y deben ser examinados cuidadosamente para determinar si son errores de entrada o datos legítimos pero inusuales.
+  | Inconsistencias de Datos:
+    | Busca inconsistencias entre diferentes conjuntos de datos o dentro del mismo conjunto de datos. Esto podría incluir discrepancias en los formatos de datos, valores que contradicen la lógica del negocio o información contradictoria entre diferentes fuentes.
+  | Duplicados de Datos:
+    | Identifica y elimina duplicados de datos que puedan existir en el conjunto de datos. Los datos duplicados pueden afectar la precisión de los análisis y los informes, por lo que es importante deduplicar los datos antes de la transformación.
