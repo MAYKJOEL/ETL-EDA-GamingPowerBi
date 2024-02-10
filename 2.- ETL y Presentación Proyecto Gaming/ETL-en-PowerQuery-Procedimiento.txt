@@ -1,0 +1,48 @@
+ETL implica identificar errores y problemas de calidad de datos, es fundamental para garantizar que los datos transformados sean precisos, consistentes y confiables. Aquí tienes una explicación detallada de este paso:
+
+Identificación de Errores y Problemas:
+
+Comienza revisando los datos cuidadosamente para identificar cualquier tipo de error o problema potencial. Esto puede incluir:
+
+Valores Nulos o Faltantes:
+
+Busca valores nulos o faltantes en las columnas de los datos. Los valores nulos pueden afectar la integridad de los cálculos y los análisis, por lo que es importante decidir cómo manejarlos.
+
+Valores Incorrectos:
+
+Examina los datos en busca de valores incorrectos o incoherentes. Esto podría incluir valores que están fuera del rango esperado, valores que no cumplen con el formato adecuado o valores que contradicen las reglas de negocio.
+
+Valores Atípicos (Outliers):
+
+Identifica valores atípicos o outliers que están significativamente fuera del rango esperado. Los outliers pueden distorsionar el análisis y deben ser examinados cuidadosamente para determinar si son errores de entrada o datos legítimos pero inusuales.
+
+Inconsistencias de Datos:
+
+Busca inconsistencias entre diferentes conjuntos de datos o dentro del mismo conjunto de datos. Esto podría incluir discrepancias en los formatos de datos, valores que contradicen la lógica del negocio o información contradictoria entre diferentes fuentes.
+
+Duplicados de Datos:
+
+Identifica y elimina duplicados de datos que puedan existir en el conjunto de datos. Los datos duplicados pueden afectar la precisión de los análisis y los informes, por lo que es importante deduplicar los datos antes de la transformación.
+
+Estándares de Calidad de Datos:
+
+Evalúa los datos según los estándares de calidad de datos establecidos por el negocio o la industria. Esto puede incluir criterios como la completitud, la exactitud, la consistencia, la integridad y la actualidad de los datos.
+
+Validación de Datos:
+
+Aplica reglas de validación para verificar la integridad y la coherencia de los datos. Esto puede incluir la validación de formatos de datos, la validación de referencias cruzadas entre diferentes conjuntos de datos y la validación de relaciones lógicas entre variables.
+
+Auditoría de Datos:
+
+Realiza una auditoría de datos para identificar cualquier otro problema potencial de calidad de datos. Esto puede implicar la revisión de registros de errores, la comparación con fuentes de datos externas o la consulta con expertos en el dominio para validar los datos.
+
+Priorización de Problemas:
+
+Una vez identificados los problemas de calidad de datos, prioriza su resolución en función de su impacto en los análisis y en los objetivos del negocio. Algunos problemas pueden requerir corrección inmediata, mientras que otros pueden ser menos críticos y abordarse en etapas posteriores del proceso ETL.
+
+Al seguir estos pasos detallados, podrás identificar de manera efectiva los errores y problemas de calidad de datos que necesitan ser abordados durante el proceso de transformación, asegurando así la integridad y la confiabilidad de los datos transformados.
+
+
+
+
+
