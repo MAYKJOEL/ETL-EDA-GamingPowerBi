@@ -61,7 +61,7 @@ Encontrar los insights y presentarlos, suponiendo que nuestra audiencia se un gr
 
 8.- en el mismo procedimiento continua con el ETL.
 
-  [m](https://github.com/MAYKJOEL/ETL-EDA-GamingPowerBi/blob/main/3.-%20Otros/Dashboard3.png)
+![D1](https://github.com/MAYKJOEL/ETL-EDA-GamingPowerBi/blob/main/3.-%20Otros/Dashboard3.png)
 
 9.- Link de acceso al proyecto
 https://drive.google.com/drive/folders/1RjR9CBxUc_FVV2GN-Als9oh6gSu01KIN?usp=sharing
