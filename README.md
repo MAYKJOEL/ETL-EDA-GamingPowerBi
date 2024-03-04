@@ -60,7 +60,7 @@ Encontrar los insights y presentarlos, suponiendo que nuestra audiencia se un gr
 7.- agregamos una nueva columna año desde el 2000 al 2018 y terminamos con esta tabla.
 
 8.- en el mismo procedimiento continua con el ETL.
-
+![D2](https://github.com/MAYKJOEL/ETL-EDA-GamingPowerBi/blob/main/3.-%20Otros/Dashboard2.png)
 ![D1](https://github.com/MAYKJOEL/ETL-EDA-GamingPowerBi/blob/main/3.-%20Otros/Dashboard3.png)
 
 9.- Link de acceso al proyecto
